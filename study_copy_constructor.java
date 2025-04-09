@@ -1,0 +1,1 @@
+class study_copy_constructor
